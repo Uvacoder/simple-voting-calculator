@@ -1,6 +1,6 @@
 # Voting Eligibility Checker
 
-![Voting Eligibility Checker](https://raw.githubusercontent.com/harsh98trivedi/Voting-Eligibility-Checker/master/meta.jpg)
+[![Voting Eligibility Checker](https://raw.githubusercontent.com/harsh98trivedi/Voting-Eligibility-Checker/master/meta.jpg)](https://harsh98trivedi.github.io/Voting-Eligibility-Checker/)
 
 The Voting Eligibility Checker is a web application that allows users to check their eligibility to vote based on their age. It provides a simple and user-friendly interface where users can enter their age and receive an immediate response regarding their eligibility.
 
