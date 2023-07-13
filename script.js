@@ -10,7 +10,12 @@ function checkEligibility() {
     else if (age >= 18) {
       result.textContent = "You are eligible to vote.";
       result.style.color = "#43A047";
-    } else {
+    }
+    else if (age >= 115) {
+      result.textContent = "Wow! You're still going strong. You're eligible to vote in every galaxy!";
+      result.style.color = "#039BE5";
+    }
+    else {
       result.textContent = "You are not eligible to vote yet.";
       result.style.color = "#E53935";
     }
